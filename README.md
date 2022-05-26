@@ -7,5 +7,5 @@ Simple Android application for creating notes.
 </p>
 
 # Screenshots
-![main_page](https://user-images.githubusercontent.com/95759302/170523687-37df35d3-0a4c-438d-b0ae-236537ef0777.jpg)
+![main-page](https://user-images.githubusercontent.com/95759302/170525405-dbf4e7cc-4eb2-4832-af07-28830af51cdc.png)
 ![create_note_page](https://user-images.githubusercontent.com/95759302/170523695-938551b2-5078-4211-9b4f-46df7b9c076d.jpg)
