@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Cosy Note</string>
+    <string name="note_title">Заголовок</string>
+    <string name="note_subtitle">Описание</string>
+    <string name="note_text">Введите текст</string>
+    <string name="app_title">Cosy Note</string>
+    <string name="search_title">Поиск</string>
+    <string name="url_address">Введите ссылку</string>
+    <string name="add_url">Добавление ссылки</string>
+    <string name="add_url_ready">Готово</string>
+    <string name="delete_title">Удаление заметки</string>
+    <string name="delete_note">Вы уверены, что хотите удалить эту заметку?</string>
+    <string name="delete_note_btn">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="menu_text">Меню</string>
+    <string name="add_image">Добавить изображение</string>
+    <string name="layout_add_url">Добавить ссылку</string>
+    <string name="menu_delete_note">Удалить заметку</string>
+</resources>

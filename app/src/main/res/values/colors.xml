@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Цвета заметок -->
+    <color name="note_default">#333333</color>
+    <color name="note_red">#FF4842</color>
+    <color name="note_green">#00E676</color>
+    <color name="note_yellow">#FF9100</color>
+    <color name="note_blue">#2869CD</color>
+    <!---->
+
+    <color name="black">#000000</color>
+    <color name="dark">#1F1F1F</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#AAAAAA</color>
+
+    <color name="light_blue">#419EFF</color>
+    <color name="blue_regular">#4497F1</color>
+
+    <color name="colorPrimary">#292929</color>
+    <color name="colorTextHint">#696969</color>
+
+    <color name="colorTextSubtitle">#CECECE</color>
+    <color name="colorNoteSubtitleText">#FAFAFA</color>
+
+</resources>
