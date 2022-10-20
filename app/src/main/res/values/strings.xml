@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Cosy Note</string>
+    <string name="app_name">Dispatch</string>
     <string name="note_title">Заголовок</string>
     <string name="note_subtitle">Описание</string>
     <string name="note_text">Введите текст</string>
-    <string name="app_title">Cosy Note</string>
+    <string name="app_title">Dispatch</string>
     <string name="search_title">Поиск</string>
     <string name="url_address">Введите ссылку</string>
     <string name="add_url">Добавление ссылки</string>
